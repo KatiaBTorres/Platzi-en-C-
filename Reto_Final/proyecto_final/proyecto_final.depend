@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1593740021 source:/Users/katiabt/Documents/progc+/proyecto_final/main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1593738325 /Users/katiabt/Documents/progc+/proyecto_final/include/Player.h
+
+1593740055 source:/Users/katiabt/Documents/progc+/proyecto_final/src/Player.cpp
+	"Player.h"
+	<iostream>
+
+1593738688 /Users/katiabt/Documents/progc+/proyecto_final/include/MapCell.h
+
+1593738688 source:/Users/katiabt/Documents/progc+/proyecto_final/src/MapCell.cpp
+	"MapCell.h"
+	<iostream>
+
+1593739904 source:/Users/katiabt/Documents/progc+/proyecto_final/src/GameMap.cpp
+	"GameMap.h"
+	<iostream>
+
+1593740166 /Users/katiabt/Documents/progc+/proyecto_final/include/GameMap.h
+	"MapCell.h"
+
+1593738325 source:/Users/katiabt/Documents/progc+/proyecto_final/include/Player.h
+
+1637876331 source:e:\documents\retos_platzi_c++\reto_final\proyecto_final\src\mapcell.cpp
+	"MapCell.h"
+	<iostream>
+
+1637876332 source:e:\documents\retos_platzi_c++\reto_final\proyecto_final\src\player.cpp
+	"Player.h"
+	<iostream>
+
